@@ -1,8 +1,7 @@
-Of course. Here is a detailed description of the selected code from the Canvas and an explanation of how it works.
 
 ### Code Description
 
-The Python code you have selected is the complete backend server for a real-time, web-based AI chatbot. It is built using **Flask**, a lightweight web framework. Its primary responsibilities are:
+The Python code that i have selected is the complete backend server for a real-time, web-based AI chatbot. It is built using **Flask**, a lightweight web framework. Its primary responsibilities are:
 
 1.  To serve the main chat interface (an HTML file) to the user's web browser.
 2.  To create an API endpoint (`/chat`) that listens for incoming messages from the user.
@@ -11,7 +10,6 @@ The Python code you have selected is the complete backend server for a real-time
 
 ### How the Code Works
 
-Let's break down the script's functionality step-by-step:
 
 1.  Imports and Configuration**:
      `from flask import ...`: It imports all the necessary components from the Flask library to handle web pages, incoming requests, and JSON responses.
